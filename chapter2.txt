@@ -1,1 +1,2 @@
-hello everyone this is 2nd chapter
+hello everyone this is 2nd chapter.
+changes in text due to new branch.
